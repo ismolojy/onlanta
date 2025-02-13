@@ -1,4 +1,4 @@
-config.yaml
+./config.yaml
 ./export/hosts_with_problems.csv
 .idea
 bin

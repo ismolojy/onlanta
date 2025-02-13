@@ -1,0 +1,9 @@
+# Zabbix Api
+apiUrl: "https://zabbix.example.local/api_jsonrpc.php"
+token: "ldjfsdfsfm;lm;l1m2;m3;21m3;1m312;21l3m"
+# Максимальное количество горутин. Нужен чтоб api не отлетала от количества запросов.
+# Если сыпятся "connection refused", то нужно уменьшить.
+maxConcurrent: 20
+
+
+
